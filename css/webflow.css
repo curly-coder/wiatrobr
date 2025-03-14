@@ -710,6 +710,9 @@ textarea.w-select {
   }
 }
 @media screen and (max-width: 479px) {
+  .hero__img{
+    display: none;
+  }
   .w-container {
     max-width: none;
   }
